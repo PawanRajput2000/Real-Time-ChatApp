@@ -22,7 +22,7 @@ The backend section of the application is responsible for handling server-side o
 - **nodemon**
 
 
-### Frontend
+## Frontend
 
 The frontend section of the application is responsible for the user interface.
 
